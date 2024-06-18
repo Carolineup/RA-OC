@@ -1,1 +1,1 @@
-This repository contains the code for the paper: Combating collusive disturbance in rank aggregation is hard but possible.
+This repository contains the code for the paper: A robust rank aggregation method for malicious disturbance based on objective credit.
